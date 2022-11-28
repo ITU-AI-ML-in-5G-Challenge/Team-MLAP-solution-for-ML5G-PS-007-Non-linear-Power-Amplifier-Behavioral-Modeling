@@ -1,4 +1,7 @@
-
+'''
+Code for "Memory Polynomial-Inspired Neural Network for Modeling the Power Amplifier Non-linearities"
+Authors : Pedamalli Saikrishna and Ashok Kumar Reddy Chavva.
+'''
 import numpy as np
 from scipy.io import loadmat
 
